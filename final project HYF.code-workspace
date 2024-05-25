@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../dawit"
+		},
+		{
+			"path": "../hyl"
+		},
+		{
+			"path": "../dave"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "final project HYF 2"
+	}
+}
